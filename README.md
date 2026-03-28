@@ -29,6 +29,7 @@
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5d552f4e-4440-46c7-9054-d388ba1f9e1f" />
 
 
 ---
